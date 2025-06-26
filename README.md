@@ -16,7 +16,8 @@ Implemented using Python `multiprocessing` and/or `concurrent.futures`. Each alg
 Metrics:
 - Execution time (seconds)
 
-Notebook: [`notebooks/parallel_sorting.ipynb`](./notebooks/parallel_sorting.ipynb)
+Notebook: [[parallel_dnn_final.ipynb](notebooks/parallel_dnn_final.ipynb)
+)
 
 ---
 
