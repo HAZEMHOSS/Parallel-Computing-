@@ -16,7 +16,7 @@ Implemented using Python's `multiprocessing` and `concurrent.futures`. Each algo
 ### 📊 Metric:
 - Execution Time (in seconds)
 
-📓 **Notebook**: [Parallel Sorting](notebooks/parallel_sorting.ipynb)
+📓 **Notebook**: [Parallel Sorting](parallel-computing-project/notebooks/parallel_sorting.ipynb).
 
 ---
 
