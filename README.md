@@ -32,7 +32,7 @@ Comparison Metrics:
 - Training Time
 - Loss
 
-Notebook: [`notebooks/parallel_dnn_final.ipynb`](./notebooks/parallel_dnn_final.ipynb)
+Notebook: [parallel-computing-project/notebooks/parallel_dnn_final.ipynb)
 
 ---
 
