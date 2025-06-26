@@ -32,7 +32,7 @@ Built a deep neural network to classify handwritten digits using the **MNIST dat
 - Loss  
 - Training Time
 
-📓 **Notebook**: [Parallel Deep Learning (MNIST)](notebooks/parallel_dnn_final.ipynb)
+📓 **Notebook**: [Parallel Deep Learning (MNIST)](parallel-computing-project/notebooks/parallel_dnn_final.ipynb)
 
 ---
 
