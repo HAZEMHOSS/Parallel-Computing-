@@ -16,8 +16,7 @@ Implemented using Python `multiprocessing` and/or `concurrent.futures`. Each alg
 Metrics:
 - Execution time (seconds)
 
-Notebook: [[parallel_dnn_final.ipynb](notebooks/parallel_dnn_final.ipynb)
-)
+Notebook: [Parallel DNN Notebook](notebooks/parallel_dnn_final.ipynb)
 
 ---
 
